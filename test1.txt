@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 44C6-3E83
+
+ Directory of C:\Users\Buyer\Desktop\My Docs
+
+03/09/2026  01:59 PM    <DIR>          .
+03/09/2026  01:59 PM    <DIR>          ..
+03/09/2026  01:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,870,474,240 bytes free
